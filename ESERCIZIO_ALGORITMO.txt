@@ -1,0 +1,47 @@
+ESERCIZIO ALGORITMI: Descrivi in un algoritmo scegliendo 3 task che si fanno nella quotidianità.
+FARE UNA TORTA
+
+1. Prendere tutti gli ingredienti (farina, uova, zucchero, burro, lievito, latte) (INPUT)
+2. Accendere il forno a 180°C
+3. Prendi una ciotola
+4. Inserisci nella ciotola zucchero e burro, successivamente mescola
+5. Unire al passaggio 4 farina, lievito e latte, mescolando fino a ottenere un impasto omogeneo
+6. Prendi una teglia
+7. Imburra la teglia
+8. Versa il risultato del passaggio 5 nella teglia
+9. Infornare per 35-40 minuti
+10. Controlla la cottura con uno stecchino, se cruda aspettare fine del passaggio 9
+11. Sfornare e lasciare raffreddare
+
+FARE LA SPESA
+
+1. Controllare la dispensa
+2. Scrivere la lista della spesa
+3. Prendere una borsa o dei sacchetti riutilizzabili
+4. Prendere un mezzo di trasporto, altrimenti vai a piedi
+5. Recarsi al supermercato
+6. Cercare i prodotti nella lista
+7. Mettere i prodotti nel carrello
+8. Passare alla cassa
+9. Pagare la spesa
+10. Riporre i prodotti nei sacchetti
+11. Tornare a casa
+12. Sistemare la spesa nella dispensa
+
+TRUCCARSI
+
+1. Lavare il viso
+2. Stendere il primer sul viso oppure applicare la crema idratante
+3. Applicare il fondotinta e successivamente il correttore
+4. Fissare con la cipria
+5. Truccare gli occhi in questo ordine: ombretto, eyeliner, mascara
+6. Definire le sopracciglia
+7. Applicare blush e/o bronzer
+8. Mettere il rossetto o gloss
+9. Fissare il trucco con spray fissante
+
+
+
+
+
+
